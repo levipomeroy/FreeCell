@@ -23,3 +23,5 @@ resides.
 src="https://github.com/levipomeroy/FreeCell/blob/master/freecell1.PNG?raw=true" width="500" height="350" />
 
 It is a console-based game with no graphics, so it can only be controlled with user input through stdin, not with a mouse. 
+
+Interested? <a href="https://github.com/levipomeroy/FreeCell/raw/master/Free%20Cell.exe">Play now</a>
